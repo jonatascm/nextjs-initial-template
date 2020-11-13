@@ -10,6 +10,8 @@
 <br>
 <br>
 
+![](toggleDarkMode.gif)
+
 ## Description
 
 Template NextJS project with Chakra UI and custom template theming + dark and light mode.
@@ -42,4 +44,3 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![](toggleDarkMode.gif)
